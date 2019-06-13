@@ -1,0 +1,3 @@
+import os
+os.system("raw")
+os.system("python2 ko.py")
